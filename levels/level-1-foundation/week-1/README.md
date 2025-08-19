@@ -1,7 +1,7 @@
 # Level 1: Foundation - File System and Basic Commands - Week 1
 
 ## Overview
-Focus on file system exploration and configuration discovery. You'll create comprehensive system inventories and understand Linux directory structures.
+Detailed tasks and scenarios for this week will be populated here based on the learning content.
 
 ## Learning Objectives
 - Learning objectives will be extracted from the main curriculum
