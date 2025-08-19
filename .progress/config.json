@@ -1,0 +1,19 @@
+{
+  "project_name": "Ubuntu System Administration",
+  "total_levels": 5,
+  "total_weeks": 10,
+  "levels": {
+    "level-1-foundation": {"weeks": [1, 2], "name": "Foundation"},
+    "level-2-services": {"weeks": [3, 4], "name": "Services & Processes"},
+    "level-3-networking": {"weeks": [5, 6], "name": "Networking"},
+    "level-4-storage": {"weeks": [7, 8], "name": "Storage & Performance"},
+    "level-5-advanced": {"weeks": [9, 10], "name": "Advanced Integration"}
+  },
+  "scoring": {
+    "task_completion": 40,
+    "documentation_quality": 30,
+    "peer_review_participation": 15,
+    "innovation_bonus": 10,
+    "timeliness": 5
+  }
+}

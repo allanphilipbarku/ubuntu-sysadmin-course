@@ -1,0 +1,31 @@
+# Environment files
+.env
+.env.local
+
+# Progress tracking (contains sensitive student data)
+.progress/students/
+.progress/cache/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+.DS_Store
+
+# Log files
+*.log
+.release-log-backup-*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+Thumbs.db
+*.pid
+
+# Personal notes (teachers can keep private notes)
+notes/
+personal/

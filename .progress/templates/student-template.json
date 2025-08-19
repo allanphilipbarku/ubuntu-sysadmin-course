@@ -1,0 +1,23 @@
+{
+  "username": "",
+  "full_name": "",
+  "email": "",
+  "start_date": "",
+  "levels": {
+    "level-1": {"status": "not_started", "weeks": {"week-1": {}, "week-2": {}}},
+    "level-2": {"status": "not_started", "weeks": {"week-3": {}, "week-4": {}}},
+    "level-3": {"status": "not_started", "weeks": {"week-5": {}, "week-6": {}}},
+    "level-4": {"status": "not_started", "weeks": {"week-7": {}, "week-8": {}}},
+    "level-5": {"status": "not_started", "weeks": {"week-9": {}, "week-10": {}}}
+  },
+  "statistics": {
+    "total_prs": 0,
+    "approved_prs": 0,
+    "peer_reviews_given": 0,
+    "peer_reviews_received": 0,
+    "total_score": 0,
+    "completion_percentage": 0
+  },
+  "badges": [],
+  "last_updated": ""
+}
